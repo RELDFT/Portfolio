@@ -1,6 +1,6 @@
-# TSS Portfolio
+# Yogesh Portfolio
 
-TSS Portfolio is an example portfolio website built with HTML, CSS, and Bootstrap.
+My personal Portfolio is built by understanding and updating the TSS portfolio, website built with HTML, CSS, and Bootstrap.
 
 ## Features
 
@@ -15,12 +15,4 @@ TSS Portfolio is an example portfolio website built with HTML, CSS, and Bootstra
 
 ## Preview
 
-You can preview the TSS Portfolio website [here](https://yuvraj3905.github.io/tss-portfolio/).
-
-## Getting Started
-
-To get a local copy of the project up and running, follow these steps:
-
-1. Clone the repository:
-   ```shell
-   git clone https://github.com/Yuvraj3905/tss-portfolio.git
+You can preview the TSS Portfolio website [here](https://relspsportfolio.netlify.app/).
